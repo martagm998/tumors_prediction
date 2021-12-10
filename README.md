@@ -15,5 +15,5 @@ Main sections of the project:
 - Descriptive power and predictive power of our models.  (anexo 4 and anexo 5)
 
 Some of the original data (PLUMKY) were modified and you can find them in the data_modified file. 
-However, it is highly recomended to read the G5_Asensi_Garcia_Ortega_tecto.pdf
+However, it is highly recomended to read G5_Asensi_Garcia_Ortega_tecto.pdf
 
