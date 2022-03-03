@@ -1,12 +1,12 @@
 # tumors_prediction
 This is an University project for: Biología Matemática. 
 
-It is a replication and analysis in python of 'Classical Mathematical Models for Description and Prediction of Experimental Tumor Growth' by Sébastien Benzekry. 
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003800
+It is a replication and analysis in python of [Classical Mathematical Models for Description and Prediction of Experimental Tumor Growth' by Sébastien Benzekry.]( 
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003800)
 
 In the document G5_Asensi_Garcia_Ortega_texto.pdf you will find the complete analysis of the project. 
 
-All documents and data can be found in https://github.com/cristinavaghi/plumky#python-packages
+All documents and data can be found in: [DATA](https://github.com/cristinavaghi/plumky#python-packages)
 
 Main sections of the project: 
 - Analysis of the mathematical models. (anexo 1)
